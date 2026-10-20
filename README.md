@@ -46,7 +46,7 @@
 
         // Save active customer phone and redirect directly to menu
         localStorage.setItem('activeCustomerPhone', phone);
-        window.location.href = 'https://github.com/sakshiflavor/MENU';
+        window.location.href = 'https://sakshiflavor.github.io/MENU';
     }
 </script>
 </body>
